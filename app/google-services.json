@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940970993215",
+    "firebase_url": "https://movilesu4u5-mmcf.firebaseio.com",
+    "project_id": "movilesu4u5-mmcf",
+    "storage_bucket": "movilesu4u5-mmcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940970993215:android:54d55176d76e9d5a01ba8a",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.unidad4p3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940970993215-ddvivminhu8puvrco8j91ikdithoak77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHJRG4Pd26AjtyOOytz6OYGfdOl4Mvic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940970993215-ddvivminhu8puvrco8j91ikdithoak77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
